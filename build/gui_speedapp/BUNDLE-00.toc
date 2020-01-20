@@ -1,0 +1,3 @@
+([('gui_speedapp',
+   '/Users/yuliiakuprii/PycharmProjects/Betterment/dist/gui_speedapp',
+   'EXECUTABLE')],)
