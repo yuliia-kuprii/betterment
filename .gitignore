@@ -1,0 +1,6 @@
+build/
+dist/
+gui_speedapp.spec
+venv/
+*.pyc
+.idea
