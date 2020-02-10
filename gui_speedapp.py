@@ -4,13 +4,9 @@ from moviepy.editor import vfx
 from moviepy.video.io.VideoFileClip import VideoFileClip
 from tkinter import ttk
 from tkinter.ttk import *
+from tortuga_bg import *
 
-# import os
-# import math
-
-'''pyinstaller --onefile --windowed --noconfirm --icon "tortuga_icon.icns" --add-data "tortuga_bg.gif:." gui_speedapp.py'''
-
-# MAX_FILE_SIZE_IN_BYTES = 9000000
+'''pyinstaller --clean --onefile --windowed --noconfirm --icon "tortuga_icon.icns" --add-data "tortuga_bg.gif:." gui_speedapp.py'''
 
 plain_window = Tk()
 plain_window.geometry("450x300+350+250")
@@ -33,7 +29,7 @@ style.configure(
     font=('Courier', '16', 'bold')
 )
 
-photo1 = PhotoImage(file="./tortuga_bg.gif")
+photo1 = PhotoImage(data=tortuga_bg)
 label1 = Label(plain_window, image=photo1)
 label1.pack()
 
