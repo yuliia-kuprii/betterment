@@ -6,8 +6,6 @@ from tkinter import ttk
 from tkinter.ttk import *
 from tortuga_bg import *
 
-'''pyinstaller --clean --onefile --windowed --noconfirm --icon "tortuga_icon.icns" --add-data "tortuga_bg.gif:." gui_speedapp.py'''
-
 plain_window = Tk()
 plain_window.geometry("450x300+350+250")
 plain_window.resizable(0, 0)
