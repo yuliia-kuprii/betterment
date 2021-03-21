@@ -4,3 +4,4 @@ Tortuga Rápida.spec
 venv/
 *.pyc
 .idea
+.DS_Store
