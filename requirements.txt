@@ -10,7 +10,7 @@ moviepy==1.0.0
 numpy==1.17.4
 Pillow==6.2.1
 proglog==0.1.9
-PyInstaller==3.5
+PyInstaller==3.6
 requests==2.22.0
 tqdm==4.40.0
 urllib3==1.25.7
