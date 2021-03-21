@@ -3,21 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="b432f2cb-3a59-4a37-9580-7af9170cc5ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/PKG-00.pkg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/PYZ-00.pyz" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/setuptools-40.8.0-py3.7.egg/setuptools/cli-32.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/setuptools-40.8.0-py3.7.egg/setuptools/cli-64.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/setuptools-40.8.0-py3.7.egg/setuptools/cli.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/setuptools-40.8.0-py3.7.egg/setuptools/gui-32.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/setuptools-40.8.0-py3.7.egg/setuptools/gui-64.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/gui_speedapp/setuptools-40.8.0-py3.7.egg/setuptools/gui.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/gui_speedapp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/gui_speedapp.app/Contents/MacOS/gui_speedapp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gui_speedapp.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tortuga Rápida.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tortuga_icon.icns" beforeDir="false" afterPath="$PROJECT_DIR$/tortuga_icon.icns" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,8 +27,14 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -49,18 +42,6 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Python.gui_speedapp">
     <configuration name="gui_speedapp" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -152,12 +133,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
