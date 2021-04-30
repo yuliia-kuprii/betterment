@@ -13,6 +13,6 @@ proglog==0.1.9
 PyInstaller==3.5
 requests==2.22.0
 tqdm==4.40.0
-urllib3==1.25.7
+urllib3==1.25.8
 
 
